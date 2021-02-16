@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![](https://img.shields.io/badge/-Issam%20Fakhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/issam-fakhari-94065719b/)](https://www.linkedin.com/in/issam-fakhari-94065719b)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=issamfakhari.io&url=https%3A%2F%2Fntakour.is)](https://issamfakhari.github.io/)
+
+📕 **Latest Blog Posts**
