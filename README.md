@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=issamfakhari.io&url=https%3A%2F%2Fntakour.is)](https://issamfakhari.github.io/)
 
 📕 **Latest Blog Posts**
+- [Predicción precios propiedades datos portal Idealista + integración OpenData (Parte1-Preparación datos)](https://issamfakhari.github.io/statistics/Idealista/)
