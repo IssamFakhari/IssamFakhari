@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 - [Predicción precios propiedades datos portal Idealista + integración OpenData (Parte1-Preparación datos)](https://issamfakhari.github.io/statistics/Idealista/)
+
+- [Venta licores.Predicción modelo ARIMA](https://issamfakhari.github.io/dataanalysis/ARIMA/)
