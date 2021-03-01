@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 
+- [XGBoost para predicción en Series Temporales ](https://issamfakhari.github.io/ml/XGBoost/)
+
 - [A\B Test. Real-Time Bidding for Display Advertising ](https://issamfakhari.github.io/dataanalysis/ABTesting/)
 
 - [Predicción precios propiedades datos portal Idealista + integración OpenData (Parte1-Preparación datos)](https://issamfakhari.github.io/statistics/Idealista/)
